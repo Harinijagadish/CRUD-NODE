@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-sample",
+  "name": "nodejs-mysql",
   "version": "1.0.0",
-  "description": "poc for nodejs-sample",
+  "description": "poc for nodejs-mysql",
   "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "build": "netlify deploy --prod"
   },
-  "author": "nodejs-sample",
+  "author": "nodejs-mysql",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
